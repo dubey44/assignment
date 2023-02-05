@@ -8,7 +8,7 @@ Step 2- Created two branch named Integration and Hotfix.
 Step 3- Creating two sub branch of integration branch named Feature1 and Feature2.
 
    Command used- git checkout -b branchname
-Step 4- Commited some changes in Feature2 then pushed branches to remote and created a pull request in github and added 2 reviewer "my friend Atul and Shrinivash" and merge this feature branch to integration Branch.
+Step 4- Commited some changes in Feature2 then pushed branches to remote and created a pull request in github and added 2 reviewer "my friend sarthak and lav" and merge this feature branch to integration Branch.
 
     Command Used- git push origin
                   git push origin branchname
